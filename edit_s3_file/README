@@ -1,0 +1,7 @@
+I have created this mini script to get json file from s3, edit the file and upload it back to the same URI.
+
+The lambda function can list all the URIs and we can use those URIs in the edit_s3 script and we can run the whole show in a container
+
+I am editing some random keys from a random file wehre you can change the key according to your file
+
+Thank you!!
